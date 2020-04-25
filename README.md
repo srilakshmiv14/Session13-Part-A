@@ -1,6 +1,6 @@
 # Session13-Part-A
 
-Implementation of YoloV3 OpenCV Code to inference an image an give results
+Implementation of YoloV3 OpenCV Code to inference an image and give results
 
 Steps:
 
